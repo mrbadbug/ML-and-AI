@@ -1,7 +1,7 @@
 Copyright (c) 2025 [mrbadbug]
 All Rights Reserved.
 
-This software and its associated documentation files (the “Software”) are the intellectual property of [Your Name].
+This software and its associated documentation files (the “Software”) are the intellectual property of [mrbadbug].
 
 Unauthorized copying, modification, distribution, or use of the Software, in whole or in part, is strictly prohibited without explicit written permission from the copyright holder.
 
