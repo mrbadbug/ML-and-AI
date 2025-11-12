@@ -1,0 +1,18 @@
+# Core ML & data science libraries
+numpy>=1.22
+pandas>=1.4
+scikit‑learn>=1.1
+
+# For data visualization
+matplotlib>=3.5
+seaborn>=0.12
+
+# For model saving/loading if applicable
+joblib>=1.2
+
+# (Optional) For preprocessing or pipelines
+scikit‑image>=0.19
+
+# (Optional) For deep learning models
+tensorflow>=2.10
+keras>=2.10
